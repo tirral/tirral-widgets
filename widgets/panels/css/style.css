@@ -1,0 +1,11 @@
+.tirral-panel-base{
+    width: 100%;
+    min-height: 300px;
+    padding-top: 90px;
+    background-color: #868686;
+}
+
+
+.tirral-panel-base h3{
+    text-align: center;
+}
