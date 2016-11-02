@@ -93,7 +93,7 @@ siteorigin_widget_register('tirral-panel-widget', __FILE__, 'Tirral_Panel_Widget
 
 
 
-/*some text heare */
+
 
 
 
