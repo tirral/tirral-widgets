@@ -26,7 +26,7 @@ class Tirral_Panel_Widget extends SiteOrigin_Widget
     function initialize()
     {
            wp_enqueue_style( 'style', plugin_dir_url(__FILE__) . 'css/style.css');
-       
+
     }
 
     function get_style_name($instance)
@@ -93,7 +93,7 @@ siteorigin_widget_register('tirral-panel-widget', __FILE__, 'Tirral_Panel_Widget
 
 
 
-
+/*some text heare */
 
 
 
